@@ -1,0 +1,6 @@
+Name: Kennedy Edmilson Cunha Melo
+Course: Computer Engineering (fifth period)
+E-mail: kecm@cin.ufpe.br
+
+In this folder, you will find: slides pdf, data-base in (csv and rcg), and the code .ipynb 
+Nesta pasta encontra-se: pdf dos slides, as bases em csv e rcg e o código em ipynb.
